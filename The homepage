@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SK Erenas</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/images/sk-logo.png" class="logo" alt="SK Logo" />
+    <h1>SK Erenas</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="kk-profiling.html">KK Profiling</a>
+      <a href="printing.html">Free Printing</a>
+      <a href="org-chart.html">Org Chart</a>
+      <a href="news.html">News</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="calendar.html">Calendar</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome to SK Erenas</h2>
+    <p>Serving the youth of Barangay Erenas with pride and purpose.</p>
+  </main>
+</body>
+</html>
